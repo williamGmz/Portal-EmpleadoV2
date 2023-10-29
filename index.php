@@ -1,11 +1,7 @@
 <?php
-  include("head.php");
-  include("menu.php");
+  include("view/Head/head.php");
+  include("view/Menu/menu.php");
 ?>
-
-  
-
-
     <!-- page content -->
     <div class="right_col" role="main">
       <!-- top tiles -->
@@ -689,5 +685,5 @@
     <!-- /page content -->
 
 <?php
-  include("footer.php");
+  include("view/Footer/footer.php");
 ?>

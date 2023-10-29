@@ -11,7 +11,7 @@
             <!-- Foto, Nombre, Y bienvenido al empleado -->
             <div class="profile clearfix">
               <div class="profile_pic">
-                <img src="images/img.jpg" alt="..." class="img-circle profile_img">
+                <img src="././public/images/img.jpg" alt="..." class="img-circle profile_img">
               </div>
               <div class="profile_info">
                 <span>Bienvenida/o</span>
