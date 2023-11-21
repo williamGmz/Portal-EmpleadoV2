@@ -11,7 +11,7 @@
             <!-- Foto, Nombre, Y bienvenido al empleado -->
             <div class="profile clearfix">
               <div class="profile_pic">
-                <img src="././public/images/img.jpg" alt="..." class="img-circle profile_img">
+                <img src="../../public/images/img.jpg" alt="..." class="img-circle profile_img">
               </div>
               <div class="profile_info">
                 <span>Bienvenida/o</span>
@@ -30,20 +30,20 @@
                 <ul class="nav side-menu">
                   <li><a><i class="fa fa-user"></i> Mi perfil <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="index.html">Datos personales</a></li>
-                      <li><a href="index2.html">Datos Laborales</a></li>
+                      <li><a href="Perfil/datos_personales.php">Datos personales</a></li>
+                      <li><a href="Perfil/datos_laborales.php">Datos Laborales</a></li>
                       <li><a href="index3.html">-------</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-list-alt"></i> Nóminas <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="form.html">Ver Nóminas</a></li>
+                      <li><a href="Nómina/ver_nomina.php">Ver Nóminas</a></li>
                       <li><a href="form_advanced.html">----------</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-edit"></i> Declaraciones <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="form.html">Mis declaracioes</a></li>
+                      <li><a href="Declaraciones/mis_declaraciones.php">Mis declaracioes</a></li>
                       <li><a href="form_advanced.html">----------</a></li>
                     </ul>
                   </li>
