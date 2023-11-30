@@ -1,6 +1,6 @@
 <?php
-  include("Head/head_index.php");
-  include("Menu/menu.php");
+ include("../Head/head.php");
+ include("../Menu/menu.php");
 ?>
     <!-- page content -->
     <div class="right_col" role="main">
@@ -685,5 +685,5 @@
     <!-- /page content -->
 
 <?php
-  include("Footer/footer_index.php");
+  include("../Footer/footer_index.php");
 ?>
